@@ -1,3 +1,10 @@
+# 🚀 ENSURE TOR IS INSTALLED 
+
+$ sudo apt install tor
+$ tor
+
+----
+
 # kali-anonstealth
 
 ParrotSec's anonsurf and stealth, ported to work with Kali Linux.
