@@ -1,7 +1,7 @@
 # 🚀 ENSURE TOR IS INSTALLED 
 
-$ sudo apt install tor
-$ tor
+- $ sudo apt install tor
+- $ tor
 
 ----
 
